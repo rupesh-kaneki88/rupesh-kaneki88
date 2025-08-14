@@ -11,7 +11,7 @@ I’m a passionate developer who loves building intelligent, scalable, and user-
 From **full stack web apps** to **AI-powered assistants**, I bring ideas to life with clean code and smart integrations.  
 
 💡 **Current Focus:**  
-- Building AI-powered assistants with **OpenAI API, embeddings, LangChain**  
+- Building AI-powered assistants with **OpenAI API, embeddings, Groq**  
 - Developing scalable web applications with **Next.js & MERN**  
 - Exploring **Robotic Process Automation (RPA)** for workflow automation  
 
