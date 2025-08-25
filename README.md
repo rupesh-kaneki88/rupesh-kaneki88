@@ -1,4 +1,4 @@
-# Hey there, I'm Rupesh 👋  
+# Hey there, I'm Rupesh 
 
 💻 **Full Stack Developer** | **AI Integrations** | **RPA Enthusiast**  
 
@@ -6,18 +6,18 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 I’m a passionate developer who loves building intelligent, scalable, and user-friendly applications.  
 From **full stack web apps** to **AI-powered assistants**, I bring ideas to life with clean code and smart integrations.  
 
-💡 **Current Focus:**  
+**Current Focus:**  
 - Building AI-powered assistants with **OpenAI API, embeddings, Groq**  
 - Developing scalable web applications with **Next.js & MERN**  
 - Exploring **Robotic Process Automation (RPA)** for workflow automation  
 
 ---
 
-## 🛠 Tech Stack  
+## Tech Stack  
 
 **Frontend:**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
@@ -36,7 +36,7 @@ From **full stack web apps** to **AI-powered assistants**, I bring ideas to life
 
 ---
 
-## 📌 Featured Projects  
+## Featured Projects  
 
 🔹 **[Grant Genius](#)** – AI-powered grant recommendation platform  
 🔹 **[Financial Virtual Assistant](#)** – RPA-based work automation tool  
@@ -44,7 +44,7 @@ From **full stack web apps** to **AI-powered assistants**, I bring ideas to life
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <div align="center">
   
@@ -55,9 +55,9 @@ From **full stack web apps** to **AI-powered assistants**, I bring ideas to life
 
 ---
 
-## 🌐 Let's Connect  
+## Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/rupesh-chavan](https://www.linkedin.com/in/rupesh-chavan-926409154/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-chavan-926409154/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rupesh-kaneki88)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupeshchavan048@gmail.com)
 
