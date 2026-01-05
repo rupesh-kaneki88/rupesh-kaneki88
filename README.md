@@ -1,4 +1,4 @@
-# Hey there, I'm Rupesh 👋
+# Hey there, I'm Rupesh
 
 💻 **Full Stack Developer** | **AI Integrations** | **RPA Enthusiast**  
 
@@ -46,9 +46,9 @@ From **full stack web apps** to **AI-powered assistants**, I bring ideas to life
 
 ## Featured Projects 
 
-**[Personal Logger]([https://github.com/USERNAME/REPO](https://github.com/rupesh-kaneki88/personal-logger))** – AI-powered Personal log system, which helps to summerize your work and keep track of tasks. 
-**[Financial Virtual Assistant](#)** – RPA-based work automation tool 
-**[Inventory Prediction System]([https://github.com/rupesh-kaneki88/Inventory-with-predictions])** – Sales forecasting using SARIMA 
+- **[Personal Logger]([https://github.com/USERNAME/REPO](https://github.com/rupesh-kaneki88/personal-logger))** – AI-powered Personal log system, which helps to summerize your work and keep track of tasks.
+- **[Financial Virtual Assistant](#)** – RPA-based work automation tool
+- **[Inventory Prediction System]([https://github.com/rupesh-kaneki88/Inventory-with-predictions])** – Sales forecasting using SARIMA 
 
 ---
 
@@ -65,7 +65,13 @@ From **full stack web apps** to **AI-powered assistants**, I bring ideas to life
 
 ## Contribution Graph
 
-![Rupesh's GitHub Quadrant](https://github.com/rupesh-kaneki88.png?tab=overview&from=2023-01-01&to=2023-12-31)
+<picture>
+    <!-- Dark mode image -->
+    <source
+        srcset="https://github.pumbas.net/api/contributions/rupesh-kaneki88?bgColour=161B22"
+        media="(prefers-color-scheme: dark)"
+    />
+</picture>
 
 ---
 
